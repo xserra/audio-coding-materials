@@ -163,3 +163,5 @@ cython_debug/
 
 # generated files
 labs/*.mp3
+examples/*.mp3
+examples/*.wav
