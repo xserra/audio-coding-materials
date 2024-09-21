@@ -1,5 +1,5 @@
 # audio-coding-materials
-Materials for a course on audio coding given at the UPF, including lectures slides, labs notebook assignments, examples notebooks, and sounds.
+Materials for a course on audio coding given at the UPF, including lectures slides, labs notebook assignments, examples notebooks, and sounds (most of them coming from freesound.org).
 
 To install the materials, create a virtual environment and install the dependencies.
 On Mac/Linux this will be:
