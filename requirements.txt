@@ -5,4 +5,5 @@ ipython
 pydub
 torch
 torchaudio
+torchinfo
 transformers
